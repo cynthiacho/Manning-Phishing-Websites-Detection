@@ -1,0 +1,208 @@
+
+Cynthia Cho@MSI MINGW64 ~ (q01-cc)
+$ PWD
+/c/Users/Cynthia Cho
+
+Cynthia Cho@MSI MINGW64 ~ (q01-cc)
+$ cd DETECT_PHHISHING_WEBSITES
+bash: cd: DETECT_PHHISHING_WEBSITES: No such file or directory
+
+Cynthia Cho@MSI MINGW64 ~ (q01-cc)
+$ dir
+_7db49c3c99eb854592129ad1267712f5_Weel-1_Subtotal_Handout.pptx
+~test-repo
+02162020.txt
+02172020.txt
+02182020.txt
+3D\ Objects
+algs4
+ANACONDA
+ansel
+apachehttpd.exe
+AppData
+Application\ Data
+bokeh.ipynb
+Boolean.ipynb
+Canopy
+Chaining\ Comparison\ Operators.ipynb
+Citizen\ Salon\ Data.ipynb
+Command\ Test.ipynb
+Contacts
+Cookies
+covid19-project
+cynthia_cho_private_key..ppk
+datasciencecoursera
+Desktop
+DETECT_PHISHING_WEBSITES
+Dictionaries.ipynb
+Documents
+Downloads
+Dropbox
+edb_apachephp.exe
+edb_languagepack_10.exe
+edb_npgsql.exe
+edb_pgagent.exe
+edb_pgbouncer.exe
+edb_pgjdbc.exe
+edb_psqlodbc.exe
+edb_psqlodbc.exe-20171112205818
+edb_psqlodbc.exe-20171113165233
+edb_psqlodbc.exe-20171113165239
+edb_psqlodbc.exe-20171113171420
+edb_psqlodbc.exe-20171113172324
+edb_psqlodbc.exe-20171120215936
+edb_psqlodbc.exe-20171120215939
+edb_slony_i_pg10.exe
+Exercism
+Favorites
+float\ formatting.ipynb
+Formatting\ String\ Literals.ipynb
+Formatting\ with\ the\ .format()\ method\ 'String\ here\ {}\ then\ also\ {}'.for                                                                                                                                  mat('something1',\ 'something2').ipynb
+Fractions.ipynb
+IF\ ELIF\ ELSE.ipynb
+Immutability.ipynb
+Input\ Output\ File\ Processing.ipynb
+IntelGraphicsProfiles
+IPython
+iris
+learnpythonthehardway
+line.png
+lines.html
+Links
+Lists.ipynb
+Local\ Settings
+lpthw
+ls
+Microsoft
+MicrosoftEdgeBackups
+movie_reviews.zip
+Music
+My\ Documents
+My\ Online\ Documents
+my_new_file.txt
+myfile.txt
+mygraph.png
+NetHood
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{6552a134-5062-11ea-91d0-d7c548b96e9e}.TM.blf
+NTUSER.DAT{6552a134-5062-11ea-91d0-d7c548b96e9e}.TMContainer00000000000000000001                                                                                                                                  .regtrans-ms
+NTUSER.DAT{6552a134-5062-11ea-91d0-d7c548b96e9e}.TMContainer00000000000000000002                                                                                                                                  .regtrans-ms
+ntuser.ini
+Numbers.ipynb
+OneDrive
+pandas-datareader
+pemhttpd.exe
+Pictures
+postgis_2_4_pg10.exe
+postgresql_10.exe
+postgresql_10.exe-20171112210032
+postgresql_10.exe-20171113165245
+postgresql_10.exe-20171113165327
+postgresql_10.exe-20171113171425
+postgresql_10.exe-20171113172403
+postgresql_10.exe-20171113172437
+postgresql_10.exe-20171120215944
+postgresql_10.exe-20171120220012
+postgresql_84.exe
+postgresql_90.exe
+postgresql_90.exe-20171112210330
+postgresql_90.exe-20171113165439
+postgresql_90.exe-20171113165448
+postgresql_90.exe-20171113172533
+postgresql_90.exe-20171113172543
+postgresql_91.exe
+postgresql_91.exe-20171112210406
+postgresql_91.exe-20171113165459
+postgresql_91.exe-20171113165509
+postgresql_91.exe-20171113172555
+postgresql_91.exe-20171113172606
+postgresql_92.exe
+postgresql_92.exe-20171112210445
+postgresql_92.exe-20171113165519
+postgresql_92.exe-20171113165528
+postgresql_92.exe-20171113172617
+postgresql_92.exe-20171113172628
+postgresql_93.exe
+postgresql_93.exe-20171112210521
+postgresql_93.exe-20171113165538
+postgresql_93.exe-20171113165549
+postgresql_93.exe-20171113172639
+postgresql_93.exe-20171113172650
+postgresql_94.exe
+postgresql_94.exe-20171112210610
+postgresql_94.exe-20171113165559
+postgresql_94.exe-20171113165609
+postgresql_94.exe-20171113172701
+postgresql_94.exe-20171113172712
+postgresql_95.exe
+postgresql_95.exe-20171112210655
+postgresql_95.exe-20171113165620
+postgresql_95.exe-20171113165631
+postgresql_95.exe-20171113172725
+postgresql_95.exe-20171113172739
+postgresql_96.exe
+postgresql_96.exe-20171112210816
+postgresql_96.exe-20171113165642
+postgresql_96.exe-20171113165711
+postgresql_96.exe-20171113172754
+postgresql_96.exe-20171113172829
+PrintHood
+private_key.ppk
+public_key
+Python-for-Probability-Statistics-and-Machine-Learning-2E
+pythonmath.ipynb
+R
+README.md
+Recent
+Roaming
+Saved\ Games
+Scatterplots.ipynb
+seaborn-data
+Searches
+SendTo
+SETS.ipynb
+SOME\ SQL\ EXPERIMENTS.ipynb
+source
+Start\ Menu
+Strings.ipynb
+temp
+Templates
+The-Data-Visualization-Workshop-master
+tiny_python_projects
+totototppp.txt
+Tuples.ipynb
+UDEMY\ COMPLETE\ PYTHON\ BOOTCAMP
+Videos
+VirtualBox\ VMs
+
+Cynthia Cho@MSI MINGW64 ~ (q01-cc)
+$ cd DETECT_PHISHING_WEBSITES
+
+Cynthia Cho@MSI MINGW64 ~/DETECT_PHISHING_WEBSITES (q01-cc)
+$ git clone https://github.com/cynthiacho/Manning-Phishing-Websites-Detection.git
+Cloning into 'Manning-Phishing-Websites-Detection'...
+remote: Enumerating objects: 18, done.
+remote: Total 18 (delta 0), reused 0 (delta 0), pack-reused 18
+Unpacking objects: 100% (18/18), done.
+
+Cynthia Cho@MSI MINGW64 ~/DETECT_PHISHING_WEBSITES (q01-cc)
+$ dir
+Manning-Phishing-Websites-Detection
+
+Cynthia Cho@MSI MINGW64 ~/DETECT_PHISHING_WEBSITES (q01-cc)
+$ cd Manning-Phishing-Websites-Detection
+
+Cynthia Cho@MSI MINGW64 ~/DETECT_PHISHING_WEBSITES/Manning-Phishing-Websites-Detection (master)
+$ git remote add upstream https://github.com/sayakpaul/Manning-Phishing-Websites-Detection.git
+
+Cynthia Cho@MSI MINGW64 ~/DETECT_PHISHING_WEBSITES/Manning-Phishing-Websites-Detection (master)
+$ git pull upstream master
+From https://github.com/sayakpaul/Manning-Phishing-Websites-Detection
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> upstream/master
+Already up-to-date.
+
+Cynthia Cho@MSI MINGW64 ~/DETECT_PHISHING_WEBSITES/Manning-Phishing-Websites-Detection (master)
+$

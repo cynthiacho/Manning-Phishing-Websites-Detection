@@ -1,0 +1,6 @@
+https://github.com/cynthiacho/Manning-Phishing-Websites-Detection.git
+
+git remote add upstream https://github.com/sayakpaul/Manning-Phishing-Websites-Detection.git
+
+https://liveproject.manning.com/module/101_1_1/use-machine-learning-to-detect-phishing-websites/introduction/about-this-liveproject?
+
